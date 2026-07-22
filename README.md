@@ -18,13 +18,6 @@ I am a 3rd-year BSc Data Analysis student at the University of Messina, with a s
 **Tools:** Pandas, Excel, Power BI, Git, GitHub  
 **Concepts:** Data analysis, data cleaning, data structures, algorithms, OOP
 
-## Projects
-
-- Data analysis projects
-- SQL practice and database projects
-- Python scripts for data processing
-- Academic projects related to analytics
-
 ## Goals
 
 - Become a strong data analyst
