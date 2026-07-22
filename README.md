@@ -1,36 +1,39 @@
 # Hi, I'm Mehbub 👋
 
-I’m a 3rd-year BSc Data Analysis student at the University of Messina, with a strong interest in data analysis, databases, and Python-based problem solving.
+## Data Analytics Student | Aspiring Data Analyst
+
+I am a 3rd-year BSc Data Analysis student at the University of Messina, with a strong interest in data analysis, databases, and solving real-world problems using data.
 
 ## About Me
 
 - Data Analytics student at the University of Messina
-- Interested in data analysis, business intelligence, and data-driven decision making
+- Interested in data analysis, business intelligence, and decision-making
 - Comfortable with programming, algorithms, and databases
-- Currently building practical skills for data analyst roles
+- Building practical skills for data analyst roles
 
 ## Skills
 
 **Languages:** Python, SQL, Java, C, HTML, PHP  
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Neo4j, MariaDB, PL/SQL  
-**Tools & Libraries:** Pandas, Power BI, Excel, Git, GitHub  
-**Concepts:** Data analysis, data cleaning, OOP, algorithms, data structures
+**Tools:** Pandas, Excel, Power BI, Git, GitHub  
+**Concepts:** Data analysis, data cleaning, data structures, algorithms, OOP
 
 ## Projects
 
-- Data analysis and visualization projects
-- SQL query practice and database work
+- Data analysis projects
+- SQL practice and database projects
 - Python scripts for data processing
-- Academic and personal projects related to analytics
+- Academic projects related to analytics
 
 ## Goals
 
-- Grow as a data analyst
+- Become a strong data analyst
 - Improve my SQL, Python, and dashboarding skills
-- Build a strong portfolio for job opportunities in Italy
+- Build a professional portfolio
+- Secure a job in Italy after my bachelor's degree
 
-## Contact
+## Connect with Me
 
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/Ikther%20uddin%20Mehbub)
+- LinkedIn: [linkedin.com/in/Ikther%20uddin%20Mehbub](https://linkedin.com/in/Ikther%20uddin%20Mehbub)
 - Instagram: [@mehbubikther](https://instagram.com/mehbubikther)
 - Email: [mehbub2476@gmail.com](mailto:mehbub2476@gmail.com)
